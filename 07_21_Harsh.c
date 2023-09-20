@@ -1,3 +1,9 @@
+/*
+Name = Harsh Chaudhari
+Roll No. = 07
+SE-IT (sem 3)
+2023-24
+*/
 //Bubble Sort
 #include <stdio.h>
 void BubbleSort(int arr[],int n)
