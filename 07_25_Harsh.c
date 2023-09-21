@@ -1,3 +1,9 @@
+/*
+Name = Harsh Chaudhari
+Roll No. = 07
+SE-IT (sem 3)
+2023-24
+*/
 //QuickSort
 #include <stdio.h>
 int partition(int arr[],int low,int high){
