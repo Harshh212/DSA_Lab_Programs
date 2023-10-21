@@ -7,4 +7,4 @@ Repository Contents
 
 2.Data Structures: Implementations of common data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
 
-3.Algorithms: Code for classic algorithms like sorting, searching, dynamic programming, and more
+3.Algorithms: Code for classic algorithms like sorting, searching and more...!
