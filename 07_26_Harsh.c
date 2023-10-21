@@ -1,3 +1,10 @@
+/*
+Name = Harsh Chaudhari
+Roll No. = 07
+SE-IT (sem 3)
+2023-24
+*/
+//BST
 #include<stdio.h>
 #include<malloc.h>
 
