@@ -1,3 +1,10 @@
+/*
+Name = Harsh Chaudhari
+Roll No. = 07
+SE-IT (sem 3)
+2023-24
+*/
+//DFS_Traversal 
 #include<stdio.h>
 
 int visited[7] = {0,0,0,0,0,0,0};
