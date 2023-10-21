@@ -1,3 +1,9 @@
+/*
+Name = Harsh Chaudhari
+Roll No. = 07
+SE-IT (sem 3)
+2023-24
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
