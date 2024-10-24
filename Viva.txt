@@ -1,0 +1,38 @@
+Git is a popular version control system which is used to track changes in account and it is used for collaboration
+GitHub is a website that allows developer store and manage their code using Git
+user.name=Harshh212
+user.email=chaudhariharsh212@gmail.com
+git config --global user.name “[firstname lastname]”
+set a name that is identifiable for credit when review version history
+git config --global user.email “[valid-email]”
+set an email address that will be associated with each history marker
+git config --global color.ui auto
+set automatic command line coloring for Git for easy reviewing
+git remote add origin https://github.com/Harshh212/localRepo.git
+git remote -v
+DOCKER
+sudo docker search MySQL
+sudo docker ps -a
+docker stop f8c52bedeecc
+docker kill 09ca6feb6efc
+sudo docker exec -it mysql bash
+-----
+ 1547  docker start dccf6261fd3d
+ 1548  docker rm dccf6261fd3d
+ 1549  sudo docker exec -it mysql bash
+ 1550  sudo docker run --name mysql -p 3406:3306 -e MYSQL_ROOT_PASSWORD=anypassword -d mysql/mysql-server:5.7
+ 1551  sudo docker stop dccf6261fd3d
+ 1552  sudo docker rm dccf6261fd3d
+ 1553  sudo docker run --name mysql -p 3406:3306 -e MYSQL_ROOT_PASSWORD=anypassword -d mysql/mysql-server:5.7
+ 1554  sudo docker ps -a
+ 1555  mysql -uroot -panypassword
+ 1556  sudo docker exec -it mysql bash
+ 1557  mysql -uroot -panypassword
+ 1558  sudo docker exec -it mysql bash
+ 1559  docker restart
+ 1560  docker restart dccf6261fd3d
+ 1561  sudo docker ps -a
+ 1562  docker restart e205a052a8fd
+
+https://github.com/jabedhasan21/java-hello-world-with-maven.git
+
