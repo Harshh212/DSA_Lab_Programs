@@ -36,3 +36,12 @@ sudo docker exec -it mysql bash
 
 https://github.com/jabedhasan21/java-hello-world-with-maven.git
 
+#!/bin/bash
+echo "$USERNAME and $PASSWORD "
+
+if [[ "$USERNAME" = "Harsh" & "$PASSWORD" = "212"]]; then
+ echo "Succeed"
+else echo "Failed"
+
+fi
+
