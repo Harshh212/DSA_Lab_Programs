@@ -39,9 +39,13 @@ https://github.com/jabedhasan21/java-hello-world-with-maven.git
 #!/bin/bash
 echo "$USERNAME and $PASSWORD "
 
-if [[ "$USERNAME" = "Harsh" & "$PASSWORD" = "212"]]; then
+USERNAME=$1
+PASSWORD=$2
+
+if [[ "$USERNAME" = "Harsh" && "$PASSWORD" = "212"]]; then
  echo "Succeed"
-else echo "Failed"
+else
+ echo "Failed"
 
 fi
 
